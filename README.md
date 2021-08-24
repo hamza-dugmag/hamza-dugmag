@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-I work in data analysis, game development, artificial intelligence, full stack development, and embedded systems.
+https://hamzadugmag.com
 
-Technologies:
-Python, MATLAB, Arduino, C/C++, Unreal Engine 4
+I work in data analysis, game development, artificial intelligence, full stack development, and embedded systems.
 
 <!--
 **hamza-dugmag/hamza-dugmag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
