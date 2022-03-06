@@ -2,10 +2,9 @@
 
 https://hamzadugmag.com
 
-I am an Engineering Science student at the University of Toronto. I am majoring in Electrical and Computer Engineering,
-pursuing an Engineering Business certificate, and triple minoring in Robotics and Mechatronics, Artificial Intelligence, and Sustainable Energy.
-
-I work in data analysis, game development, artificial intelligence, full stack development, and embedded systems.
+I am an Engineering Science student at the University of Toronto majoring in Robotics Engineering.
+I'm a passionate designer and leader interested in robotics for space exploration.
+I use the world I have to build the world I want.
 
 <!--
 **hamza-dugmag/hamza-dugmag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
