@@ -2,8 +2,8 @@
 
 https://hamzadugmag.com
 
-I'm an Engineering Science student at the University of Toronto majoring in Robotics Engineering.
-I'm a passionate designer and leader interested in robotics for space exploration.
+I'm an Engineering Science student at the University of Toronto majoring in Electrical and Computer Engineering.
+I'm a passionate designer and leader interested in sustainable energy, bipropellant rockets, and robotics for space exploration.
 I use the world I have to build the world I want.
 
 <!--
