@@ -3,8 +3,7 @@
 https://hamzadugmag.com
 
 I'm an Engineering Science student at the University of Toronto majoring in Electrical and Computer Engineering.
-I'm a passionate designer and leader interested in sustainable energy, bipropellant rockets, and robotics for space exploration.
-I use the world I have to build the world I want.
+I'm a passionate designer and leader interested in robotics, sustainable energy, space exploration, video games, and graphic design. I use the world I have to build the world I want.
 
 <!--
 **hamza-dugmag/hamza-dugmag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
