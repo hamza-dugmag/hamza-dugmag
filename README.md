@@ -1,9 +1,11 @@
 ### Hello! 👋
 
-https://hamzadugmag.com
-
 I'm an Engineering Science student at the University of Toronto majoring in Electrical and Computer Engineering.
 I'm a passionate designer and leader interested in sustainable energy, bipropellant rockets, and robotics for space exploration. I use the world I have to build the world I want.
+
+- https://hamzadugmag.com
+- https://github.com/hamza-dugmag
+- https://www.linkedin.com/in/hamza-dugmag/
 
 <!--
 **hamza-dugmag/hamza-dugmag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
