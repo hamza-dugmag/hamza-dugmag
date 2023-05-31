@@ -1,7 +1,8 @@
 ### Hello! 👋
 
 I'm an Engineering Science student at the University of Toronto majoring in Electrical and Computer Engineering.
-I'm a passionate designer and leader interested in computer architecture, power electronics, and radio systems. I use the world I have to build the world I want.
+I'm a passionate designer and leader interested in computer architecture, power electronics, and wireless radio systems.
+I use the world I have to build the world I want.
 
 - https://hamzadugmag.com
 - https://github.com/hamza-dugmag
