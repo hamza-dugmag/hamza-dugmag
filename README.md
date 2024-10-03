@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 I'm an Engineering Science student at the University of Toronto majoring in Electrical and Computer Engineering.
-I'm a passionate designer and leader interested in power electronics, VLSI, and microwave systems.
+I'm a passionate designer and leader interested in power electronics and electric drives.
 Driven by my core values of accessibility, sustainability, and reliability, I collaborate with others to improve the human condition.
 
 - https://hamzadugmag.com
