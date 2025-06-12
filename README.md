@@ -1,4 +1,6 @@
-### Hello! 👋
+Interested in power electronics and electric drives to create a sustainable world.
+
+<!--### Hello! 👋
 
 I'm a graduating Engineering Science student at the University of Toronto majoring in Electrical and Computer Engineering.
 I'm a passionate designer and leader interested in power electronics and electric drives.
@@ -7,7 +9,7 @@ Driven by my core values of innovation and sustainability, I collaborate with ot
 - https://hamzadugmag.com
 - https://github.com/hamza-dugmag
 - https://www.linkedin.com/in/hamza-dugmag/
-
+-->
 <!--
 **hamza-dugmag/hamza-dugmag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
